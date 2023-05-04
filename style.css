@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.titulo{
+    background: black;
+    width: 100vw;
+    height: 30vh;
+    padding: 280px 5%;
+}
+
+.titulo h1{
+    font-size: 100px;
+    color: yellow;
+    -webkit-text-stroke: 10px solid black;
+}
+
+.titulo p{
+    font-size: 50px;
+    color: yellow;
+}
+
+
